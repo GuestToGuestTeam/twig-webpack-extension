@@ -1,5 +1,5 @@
 {
-    "name": "fullpipe/twig-webpack-extension",
+    "name": "guesttoguest/twig-webpack-extension",
     "description": "Inject your webpack entry points into twig templates with easy.",
     "type": "library",
     "license": "MIT",
